@@ -9,6 +9,8 @@
     width: 100%;
 }
 .c-left{
+    display: flex;
+    flex-direction: column;
     gap: 0.5rem;
 }
 

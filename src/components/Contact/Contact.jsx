@@ -4,8 +4,9 @@ import { MdCall } from "react-icons/md";
 import {BsFillChatDotsFill} from 'react-icons/bs'
 const Contact = () => {
   return (
-    <section className="c-wrapper">
-      <div className="paddings innerWidth flexCenter c-container">
+    <section id="contact"
+     className="c-wrapper">
+      <div  className="paddings innerWidth flexCenter c-container">
         {/* left side */}
         <div className="c-left">
           <span className="orangeText">Our Contact Us</span>

@@ -16,7 +16,7 @@ import "react-accessible-accordion/dist/fancy-example.css";
 const Value = () => {
     const [className,setClassName]=useState(null)
   return (
-    <section className="v-wrapper ">
+    <section id="value" className="v-wrapper ">
       <div className="paddings flexCenter innerWidth v-container">
         {/* left side  */}
         <div className="v-left">

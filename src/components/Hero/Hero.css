@@ -105,4 +105,11 @@
     .stat>:nth-child(2){
         font-size: 0.8rem;
     }
+    .search-bar {
+        width: 102%;
+    }
+    .search-bar button{
+        width: 25%;
+        font-size: .5rem;
+    }
 }
